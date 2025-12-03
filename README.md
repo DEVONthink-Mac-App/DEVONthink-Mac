@@ -1,7 +1,9 @@
 # DEVONthink Mac Pro
 
+<br>
+
 <p align="center">
-  <img src="hhttps://eastgate.com/Tinderbox/logo/Devon.png" width="260">
+  <img src="https://eastgate.com/Tinderbox/logo/Devon.png" width="260">
 </p>
 
 <p align="center">
